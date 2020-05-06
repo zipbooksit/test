@@ -1,2 +1,6 @@
 no
 never
+
+yes
+
+ha
